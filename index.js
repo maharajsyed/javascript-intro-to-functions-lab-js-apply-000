@@ -15,3 +15,7 @@ function logWhisper (string)
 {
   console.log (string.toLowerCase())
 }
+function sayHiToGranma(string)
+{
+  console.log(string.toUpperCase())
+}
